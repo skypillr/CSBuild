@@ -1,0 +1,21 @@
+{
+        "Projects":[
+                {
+                        "ProjectPath":"E:/workspace/net/CSBuild/BuildTemplate",
+                        "Name":"MyCs.Proj",
+                        "CompileFiles":[
+                                "Program.cs",
+                                "Test.cs"
+                        ],
+                        "References":[
+                                "DLL/A.dll",
+                                "DLL/B.dl"
+                        ],
+                        "PdbGenerated":true,
+                        "DebugPdbOnly":false,
+                        "OutPath":"E:/workspace/net/CSBuild/BuildTemplate",
+                        "OutAssembleName":"HelloWorld.exe",
+                        "Target":"exe"
+                }
+        ]
+}
